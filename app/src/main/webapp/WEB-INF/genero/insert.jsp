@@ -4,6 +4,7 @@
     <head>
         <meta charset="UTF-8" />
         <title>Novo Gênero</title>
+        
     </head>
     <body>
         <h1>Novo Gênero</h1>
